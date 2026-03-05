@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+<version type="str">m14.pi-1 13</version>
+<person>
+<acc id="622" enabled="1">
+<user_name>Mike</user_name>
+<password type="plaintext">password</password>
+</acc>
+<acc id="2291443" enabled="0">
+<user_name>Bob</user_name>
+<password type="plaintext">0123456789</password>
+</acc>
+<acc id="14" enabled="1">
+<user_name>Lucy</user_name>
+<password type="plaintext">123123</password>
+</acc>
+<acc id="9966" enabled="1">
+<user_name>test</user_name>
+<password type="plaintext">qwerty</password>
+</acc>
+<acc id="3309" enabled="0">
+<user_name>foobar</user_name>
+<password type="encoded">cXdlcnR5MTIzNA==</password>
+</acc>
+</person>
+<uptime type="int">6614885772</uptime>
+</config>
