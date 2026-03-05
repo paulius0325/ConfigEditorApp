@@ -4,7 +4,7 @@ WPF application written in C# that reads configuration data from an XML file, al
 
 ## Features
 
-- Reads data from `config.xml`
+- Reads data from config.xml
 - Displays accounts in a GUI
 - Allows editing of account data
 - Saves changes back to XML
@@ -17,6 +17,14 @@ WPF application written in C# that reads configuration data from an XML file, al
 - WPF
 - LINQ to XML
 - Bash script
+
+## How to run
+
+1. Clone the repository
+2. Open EditorApp.sln in Visual Studio
+3. Run the application
+
+Note: The application requires Git Bash installed because the password generation uses a Bash script.
 
 ## Author
 Paulius Tamelis
